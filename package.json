@@ -1,0 +1,22 @@
+{
+  "name": "learn-021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "learn-021": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syqpb/learn-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syqpb/learn-02/issues"
+  },
+  "homepage": "https://github.com/syqpb/learn-02#readme"
+}
