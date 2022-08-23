@@ -1,6 +1,6 @@
 {
   "name": "learn-021",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -15,11 +15,11 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "test-lib-001": "^1.0.0"
+  },
   "bugs": {
     "url": "https://github.com/syqpb/learn-02/issues"
   },
-  "homepage": "https://github.com/syqpb/learn-02#readme",
-  "dependencies": {
-    "test-lib-001": "^1.0.0"
-  }
+  "homepage": "https://github.com/syqpb/learn-02#readme"
 }
