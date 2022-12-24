@@ -17,5 +17,5 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run:|
-        ls -al
+      - run: npm install -g create-react-app
+      - run: node -v
