@@ -13,6 +13,6 @@ jobs:
       - run: bats -v
   go-to-beijing:
     run-on: ubuntu-latest
-      -run: |
+      - run: |
         ls -al
         node -v
